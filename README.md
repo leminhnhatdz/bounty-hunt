@@ -1,4 +1,3 @@
-talon+magma
 getgenv().SpamSkill = false
 getgenv().AutoUseRaceV3 = true
 getgenv().AutoUseRacev4 = true
